@@ -1,4 +1,4 @@
 clearnlp-dictionary
 ===================
 
-Dictionary files used for ClearNLP.
+Dictionary used for ClearNLP.
