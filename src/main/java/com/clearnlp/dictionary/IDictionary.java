@@ -21,5 +21,6 @@ package com.clearnlp.dictionary;
  */
 public interface IDictionary 
 {
+	String LAST_UPDATE = "2013/09/12 - 14:40";
 	String PATH_ROOT = "dictionary/";
 }
