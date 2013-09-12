@@ -436,6 +436,7 @@ african
 afrikaans
 afrikaner
 aft
+after
 aftermost
 aftershafted
 agamic

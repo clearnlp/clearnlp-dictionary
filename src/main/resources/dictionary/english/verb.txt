@@ -51,6 +51,7 @@ acclimate
 acclimatise
 acclimatize
 accommodate
+accomodate
 accompany
 accomplish
 accord
@@ -598,6 +599,7 @@ beckon
 becloud
 become
 become_known
+bed
 bedamn
 bedaub
 bedaze
@@ -726,6 +728,7 @@ billet
 billow
 bin
 bind
+bing
 binge
 bioassay
 biodegrade
@@ -1701,6 +1704,7 @@ consubstantiate
 consult
 consume
 consummate
+cont
 contact
 contain
 containerise
@@ -1752,6 +1756,7 @@ cool
 cooper
 cooperate
 coopt
+coopts
 coordinate
 cop
 cope
@@ -2012,6 +2017,7 @@ debilitate
 debit
 debone
 debouch
+debride
 debrief
 debug
 debunk
@@ -2521,6 +2527,7 @@ disorganize
 disorient
 disorientate
 disown
+disp
 disparage
 dispatch
 dispel
@@ -3156,6 +3163,7 @@ federalise
 federalize
 federate
 fee
+feed
 feel
 feign
 feint
@@ -3880,6 +3888,7 @@ hog
 hogtie
 hoist
 hold
+holdover
 hole
 holiday
 holler
@@ -5755,6 +5764,7 @@ pontificate
 pooch
 pool
 pop
+popes
 popularise
 popularize
 populate
@@ -5857,6 +5867,7 @@ prepose
 prepossess
 prerecord
 presage
+preschedule
 prescribe
 present
 preserve
@@ -6168,6 +6179,7 @@ reassemble
 reassert
 reassess
 reassign
+reassume
 reassure
 reattribute
 reave
@@ -6352,6 +6364,7 @@ reintegrate
 reinterpret
 reintroduce
 reinvent
+reinvest
 reinvigorate
 reissue
 reiterate
@@ -6515,6 +6528,7 @@ respite
 resplend
 respond
 rest
+restage
 restart
 restate
 restitute
@@ -6600,6 +6614,7 @@ rewire
 reword
 rework
 rewrite
+rfl
 rhapsodise
 rhapsodize
 rhumba
@@ -6894,6 +6909,7 @@ sedate
 sediment
 seduce
 see
+seed
 seek
 seel
 seem
@@ -7864,6 +7880,7 @@ taunt
 tauten
 tax
 taxi
+taxis
 teach
 team
 tear
@@ -7914,6 +7931,7 @@ terrorise
 terrorize
 tessellate
 test
+testes
 testify
 tether
 thank
@@ -8608,6 +8626,7 @@ wed
 wedel
 wedge
 wee
+weed
 weekend
 weep
 weigh
