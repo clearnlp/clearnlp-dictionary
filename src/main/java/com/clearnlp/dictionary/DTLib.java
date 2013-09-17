@@ -44,14 +44,7 @@ package com.clearnlp.dictionary;
  * @since 1.0.0
  * @author Jinho D. Choi ({@code jdchoi77@gmail.com})
  */
-public class DTTokenizer
+public class DTLib
 {
-	static public final String PATH = DTLib.PATH_ROOT + "tokenizer/";
-	
-	static public final String ABBREVIATIONS = PATH + "abbreviations.txt";
-	static public final String COMPOUNDS     = PATH + "compounds.txt";
-	static public final String EMOTICONS     = PATH + "emoticons.txt";
-	static public final String HYPHENS       = PATH + "hyphens.txt";
-	static public final String NON_UTF8      = PATH + "non-utf8.txt";
-	static public final String UNITS         = PATH + "units.txt";
+	static public String PATH_ROOT = "dictionary/";
 }

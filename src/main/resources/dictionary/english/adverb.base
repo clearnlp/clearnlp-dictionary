@@ -1,3 +1,6 @@
+a.d.
+a.k.a.
+a.m.
 aback
 abaft
 abaxially
@@ -33,6 +36,7 @@ acceptably
 accidentally
 accommodatingly
 accordingly
+accumulatively
 accurately
 accusingly
 acoustically
@@ -71,9 +75,11 @@ affectingly
 affectionately
 affirmatively
 afield
+afloat
 afoot
 afresh
 aft
+after
 afterward
 afterwards
 again
@@ -146,6 +152,7 @@ anciently
 andante
 anew
 angelically
+angiographically
 angrily
 animatedly
 anisotropically
@@ -164,6 +171,7 @@ any
 anyhow
 anymore
 anyplace
+anytime
 anyway
 anyways
 anywhere
@@ -181,7 +189,9 @@ appreciatively
 apprehensively
 appropriately
 approvingly
+approx
 approximately
+apprx
 apropos
 aptly
 arbitrarily
@@ -376,6 +386,7 @@ brotherly
 brusquely
 brutally
 brutishly
+btw
 bumptiously
 buoyantly
 bureaucratically
@@ -516,6 +527,7 @@ conceptually
 concernedly
 concisely
 conclusively
+concomitantly
 concretely
 concurrently
 condescendingly
@@ -640,6 +652,7 @@ customarily
 cutely
 cuttingly
 cynically
+cytologically
 cytophotometrically
 cytoplasmically
 daftly
@@ -686,6 +699,7 @@ defensively
 deferentially
 defiantly
 definitely
+definitively
 deftly
 dejectedly
 deliberately
@@ -735,6 +749,7 @@ devoutly
 dexterously
 dextrously
 diabolically
+diagnostically
 diagonally
 diagrammatically
 dialectically
@@ -907,6 +922,7 @@ electrostatically
 elegantly
 elementarily
 eloquently
+else
 elsewhere
 embarrassingly
 eminently
@@ -920,6 +936,7 @@ encouragingly
 endearingly
 endlessly
 endogenously
+endoscopically
 enduringly
 endways
 endwise
@@ -1038,6 +1055,7 @@ fancifully
 fantastically
 far
 farcically
+farthest
 fascinatingly
 fashionably
 fast
@@ -1141,6 +1159,7 @@ foursquare
 fourth
 fourthly
 foxily
+fractionally
 fractiously
 frankly
 frantically
@@ -1181,6 +1200,7 @@ fundamentally
 funnily
 furiously
 furthermore
+furthest
 furtively
 fussily
 futilely
@@ -1275,6 +1295,7 @@ haggardly
 half
 halfway
 haltingly
+handedly
 handily
 handsomely
 haphazard
@@ -1314,6 +1335,7 @@ heinously
 hellishly
 helpfully
 helplessly
+hemodynamically
 hence
 henceforth
 henceforward
@@ -1553,10 +1575,12 @@ inexorably
 inexpediently
 inexpensively
 inexpertly
+inexplicably
 inexpressively
 inextricably
 infectiously
 infelicitously
+inferiorly
 infernally
 infinitely
 inflexibly
@@ -1644,6 +1668,8 @@ intractably
 intradermally
 intramuscularly
 intransitively
+intraop
+intraoperatively
 intravenously
 intrepidly
 intricately
@@ -1725,6 +1751,7 @@ landwards
 langsyne
 languidly
 languorously
+laparoscopically
 large
 largely
 largo
@@ -1937,6 +1964,7 @@ misleadingly
 mistakenly
 mistily
 mistrustfully
+mitotically
 mockingly
 moderately
 modestly
@@ -2016,6 +2044,7 @@ nervelessly
 nervily
 nervously
 neurobiological
+neurologically
 neurotically
 never
 nevermore
@@ -2356,6 +2385,7 @@ portentously
 positively
 possessively
 possibly
+posteriorly
 posthumously
 postoperatively
 potentially
@@ -2379,10 +2409,13 @@ precociously
 predicatively
 predictably
 predominantly
+predominately
 preeminently
 preferably
 preferentially
+preliminarily
 prematurely
+preoperatively
 preponderantly
 prepositionally
 preposterously
@@ -2411,6 +2444,8 @@ privately
 privily
 prn
 pro
+proactively
+prob
 probabilistically
 probably
 problematically
@@ -2453,6 +2488,7 @@ provincially
 provisionally
 provocatively
 provokingly
+proximally
 prudently
 prudishly
 pruriently
@@ -2501,6 +2537,7 @@ radially
 radiantly
 radically
 radioactively
+radiographically
 raffishly
 raggedly
 rakishly
@@ -2538,9 +2575,11 @@ receptively
 reciprocally
 recklessly
 recognizably
+rectally
 recurrently
 redly
 reflectively
+reflexively
 reflexly
 refreshfully
 refreshingly
@@ -2698,6 +2737,7 @@ sedately
 seductively
 sedulously
 seemingly
+segmentally
 seldom
 selectively
 selfishly
@@ -2943,6 +2983,7 @@ steaming
 steeply
 stepwise
 stereotypically
+sterilely
 sternly
 stertorously
 stickily
@@ -2989,10 +3030,12 @@ subcutaneously
 subjectively
 sublimely
 submissively
+suboptimally
 subsequently
 subserviently
 substantially
 subtly
+subtotally
 successfully
 successively
 succinctly
@@ -3012,6 +3055,7 @@ superbly
 superciliously
 superficially
 superfluously
+superiorly
 superlatively
 supernaturally
 superstitiously
@@ -3045,6 +3089,7 @@ synonymously
 syntactically
 synthetically
 systematically
+systemically
 tacitly
 taciturnly
 tactfully
@@ -3122,6 +3167,7 @@ thereon
 thereto
 theretofore
 thereunder
+thereupon
 therewith
 therewithal
 thermally
@@ -3184,6 +3230,7 @@ tragically
 traitorously
 tranquilly
 transcendentally
+transdermally
 transiently
 transitionally
 transitively
@@ -3472,6 +3519,7 @@ utterly
 uxoriously
 vacantly
 vacuously
+vaginally
 vaguely
 vainly
 valiantly
@@ -3552,6 +3600,7 @@ westerly
 westward
 westwards
 whacking
+whatsoever
 wheezily
 wheezingly
 whence
@@ -3594,6 +3643,8 @@ wordily
 wordlessly
 worriedly
 worryingly
+worse
+worst
 worthily
 worthlessly
 wrathfully
