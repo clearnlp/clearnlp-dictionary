@@ -46,7 +46,7 @@ package com.clearnlp.dictionary;
  */
 public class DTTokenizer
 {
-	static public final String PATH = DTLib.PATH_ROOT + "tokenizer/";
+	static public final String PATH = DTLib.PATH_DICTIONARY + "tokenizer/";
 	
 	static public final String ABBREVIATIONS = PATH + "abbreviations.txt";
 	static public final String COMPOUNDS     = PATH + "compounds.txt";

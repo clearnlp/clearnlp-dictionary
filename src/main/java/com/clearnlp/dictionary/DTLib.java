@@ -46,5 +46,6 @@ package com.clearnlp.dictionary;
  */
 public class DTLib
 {
-	static public String PATH_ROOT = "dictionary/";
+	/** The directory path to the dictionary. */
+	static public String PATH_DICTIONARY = "dictionary/";
 }

@@ -47,7 +47,7 @@ package com.clearnlp.dictionary;
  */
 public class DTEnglish
 {
-	static public final String PATH = DTLib.PATH_ROOT + "english/";
+	static public final String PATH = DTLib.PATH_DICTIONARY + "english/";
 	
 	static public final String ABBREVIATOIN_RULE = PATH + "abbreviation.rule";
 	static public final String ADJECTIVE_EXC     = PATH + "adjective.exc";
