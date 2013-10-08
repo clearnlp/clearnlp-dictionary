@@ -47,18 +47,18 @@ package com.clearnlp.dictionary;
  */
 public class DTEnglish
 {
-	static public final String PATH = DTLib.PATH_DICTIONARY + "english/";
+	static public final String PATH          = DTLib.PATH_DICTIONARY + "english/";
+	static public final String EXT_BASE      = ".base";
+	static public final String EXT_EXCEPTION = ".exc";
+	static public final String VERB          = "verb";
+	static public final String NOUN          = "noun";
+	static public final String ADJECTIVE     = "adjective";
+	static public final String ADVERB        = "adverb";
+	static public final String CARDINAL      = "cardinal";
 	
+	static public final String INFLECTION_SUFFIX = PATH + "inflection_suffix.xml";
+	static public final String DERIVATION_SUFFIX = PATH + "derivation_suffix.xml";
 	static public final String ABBREVIATOIN_RULE = PATH + "abbreviation.rule";
-	static public final String ADJECTIVE_EXC     = PATH + "adjective.exc";
-	static public final String ADJECTIVE_BASE    = PATH + "adjective.base";
-	static public final String ADVERB_EXC        = PATH + "adverb.exc";
-	static public final String ADVERB_BASE       = PATH + "adverb.base";
-	static public final String NOUN_EXC          = PATH + "noun.exc";
-	static public final String NOUN_BASE         = PATH + "noun.base";
-	static public final String VERB_EXC          = PATH + "verb.exc";
-	static public final String VERB_BASE         = PATH + "verb.base";
-	static public final String VERB_TENSE        = PATH + "verb.tense";
-	static public final String CARDINAL_BASE     = PATH + "cardinal.base";
 	static public final String ORDINAL_BASE      = PATH + "ordinal.base";
+	static public final String VERB_TENSE        = PATH + "verb.tense";
 }
