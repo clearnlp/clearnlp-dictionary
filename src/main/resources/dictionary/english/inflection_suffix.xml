@@ -66,10 +66,4 @@
             <rule base_pos="RB" affix_form="est"  replacements=",e" examples="soonest, largest"/>
         </affix>
     </adverb>
-    <cardinal>
-        <affix type="suffix" form="s" pos="ISP">
-            <rule base_pos="CD" affix_form="ies" replacements="y" examples="twenties"/>
-            <rule base_pos="CD" affix_form="s"   replacements=""  examples="millions"/>
-        </affix>
-    </cardinal>
 </morphology>

@@ -1,4 +1,4 @@
 clearnlp-dictionary
 ===================
 
-Dictionary used for ClearNLP.
+Dictionary used for tokenization and morphological analysis.
