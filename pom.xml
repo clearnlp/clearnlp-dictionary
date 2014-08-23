@@ -43,7 +43,17 @@
     <maven.compiler.source>1.6</maven.compiler.source>
     <maven.compiler.target>1.6</maven.compiler.target>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <testng.version>6.8</testng.version>
   </properties>
+
+  <dependencies>
+    <dependency>
+      <groupId>org.testng</groupId>
+      <artifactId>testng</artifactId>
+      <scope>test</scope>
+      <version>${testng.version}</version>
+    </dependency>
+  </dependencies>
   
   <build>
     <resources>
